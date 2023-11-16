@@ -2,15 +2,10 @@
 
 ### Fala 👋, sou o Arthur Luiz 
 🖥️ Sou estudante de Engenharia de Software
-Atualmente possuo entendimento e certificado em algumas linguagens, como: 
-<p>✔️ HTML</p>
-<p>✔️ CSS</p>
-<p>✔️ JavaScript</p>
-<p>✔️ Python</p>
 
 ![Santista GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurluizvieira&show_icons=true&theme=midnight-purple) 
 
-## Linguagens mais utilizadas
+## Certificados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurluizvieira&layout=compact)
 <div style="display: inline_block">
