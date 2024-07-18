@@ -1,7 +1,7 @@
 ### Fala 👋, sou o Arthur Luiz 
 🖥️ Sou estudante de Engenharia de Software e atualmente trabalho como Estagiário na Empresa Qmovi localizada na cidade de Arapongas, Paraná - Brazil. Sou desenvolvedor utilizando a tecnologia Python!
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurluizvieira&theme=midnight&purple_icons=true)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurluizvieira&theme=synthwave _icons=true)
 
 ## Linguagens mais utilizadas
 
