@@ -5,7 +5,7 @@
 
 ## Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurluizvieira&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurluizvieira&layout=compacticons=true&theme=synthwave)
 
 
 ## Certificados
