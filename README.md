@@ -1,14 +1,14 @@
-### Fala 👋, sou o Arthur Luiz 
-🖥️ Sou estudante de Engenharia de Software e atualmente trabalho como Estagiário na Empresa Qmovi localizada na cidade de Arapongas, Paraná - Brazil. Sou desenvolvedor utilizando a tecnologia Python!
+### Hi there 👋, I'm Arthur Luiz
+🖥️ I am a Software Engineering student and currently work as an Intern at Qmovi Company located in the city of Arapongas, Paraná - Brazil. I'm a developer using Python technology!
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur&theme=synthwave&show_icons=true)
 
-## Linguagens mais utilizadas
+## Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurluizvieira&layout=compact&icons=true&theme=synthwave)
 
 
-## Certificados
+## Tech's Certificates
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,6 +18,6 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-## Redes Sociais
+## Social Media
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/USERNAME/](https://www.linkedin.com/in/arthur-luiz-vieira-yokomizo-293b78275/)) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/@arthurluizvieira__/)
