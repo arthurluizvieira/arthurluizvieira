@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Arthur Luiz
-🖥️ I am a Software Engineering student and currently work as an Intern at Qmovi Company located in the city of Arapongas, Paraná - Brazil. I'm a developer using Python technology!
+🖥️ I am a Software Engineering student. I'm a student developer using Python technology!
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur&theme=synthwave&show_icons=true)
 
